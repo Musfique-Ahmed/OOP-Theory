@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | AI Researcher | Data Engineering Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Science+Senior+%40+UIU;3.91+CGPA+Scholar;NLP+%26+Sentiment+Analysis+Researcher;Founder+%26+President+%40+UIU+DSC;Space+Enthusiast+%26+Photographer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Science+Senior+%40+UIU;NLP+%26+Sentiment+Analysis+Researcher;Founder+%26+President+%40+UIU+DSC;Space+Enthusiast+%26+Photographer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-I am a high-achieving **Senior Data Science Student** at **United International University (UIU)** with a **3.91 CGPA**. My curiosity drives me to explore innovative solutions across different fields, from Machine Learning to Space Exploration. I specialize in building robust ETL pipelines and AI models that turn raw data into strategic intelligence.
+I am a high-achieving **Senior Data Science Student** at **United International University (UIU)**. My curiosity drives me to explore innovative solutions across different fields, from Machine Learning to Space Exploration. I specialize in building robust ETL pipelines and AI models that turn raw data into strategic intelligence.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -76,6 +76,10 @@ I am a high-achieving **Senior Data Science Student** at **United International 
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Musfique-Ahmed&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musfique-Ahmed&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
