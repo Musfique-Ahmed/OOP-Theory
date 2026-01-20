@@ -88,8 +88,8 @@ intences of the child class.
 """
 
 
-# account_1 = SavingsAccount("0152330101")
-# print(account_1)
+account_1 = SavingsAccount("0152330101")
+print(account_1)
 # account_1.deposite(50000)
 # print(account_1)
 # account_1.withdraw(10000)
