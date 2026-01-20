@@ -60,10 +60,10 @@ def prime_printer(limit):
        if is_prime(i):
            if i-prev == 2:
                pair = (prev , i)
-               yield pair
+               yield pair #genrator function
            prev = i
 
 
-a = prime_printer(1000)
+a = prime_printer(1000) # genrator object
 for i in a:
    print(i)
