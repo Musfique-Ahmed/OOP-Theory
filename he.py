@@ -53,6 +53,7 @@ def is_prime(number):
        if number % i == 0:
            return False
    return True
+
 def prime_printer(limit):
    prev = 2
    for i in range(3, limit):
